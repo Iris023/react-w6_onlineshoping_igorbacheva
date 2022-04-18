@@ -153,12 +153,13 @@ h1, h2, h3 {
 .btn-cont {
   display: flex;
   justify-content: center;
+  flex-wrap: wrap;
 }
 
 .categoryBtn {
   background-color: #59b;
   text-transform: uppercase;
-  font-size: 10px;
+  font-size: 12px;
   margin: 15px;
   padding:  5px 15px;
   color: #fef;
@@ -173,7 +174,7 @@ h1, h2, h3 {
 
 .allItemsBtn {
   background-color: #af5071;
-  font-size: 13px;
+  font-size: 14px;
   align-self: center;
 }
 
@@ -239,7 +240,38 @@ h1, h2, h3 {
 }
 
 @media all and (max-width: 600px) {
+  .logo {
+    width: 70%;
+  }
+
+  .text {
+    font-size: 18px;
+  }
+
   .item-card {
     width: 70%;
 }
+
+  .categoryBtn {
+    margin: 6px;
+  }
+
+  .allItemsBtn {
+    margin-top: 20px;
+}
+
+  .sliderBtn {
+    margin: 0;
+}
+
+  .sliderArrow {
+    width: 100%;
+}
+}
+
+
+@media all and (max-width: 400px) {
+  .logo {
+    width: 90%;
+  }
 }
