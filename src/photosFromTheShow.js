@@ -1,7 +1,7 @@
 export const photosFromTheShow = [
     {
         id: 1,
-        image: 'https://media.gettyimages.com/photos/gigi-hadid-and-bella-hadid-pose-backstage-prior-to-the-victorias-picture-id627173638?s=2048x2048'
+        image: 'https://media.gettyimages.com/photos/adriana-lima-elsa-hosk-alessandra-ambrosio-and-josephine-skriver-walk-picture-id626920972?s=2048x2048'
     },
 
     {
@@ -21,7 +21,7 @@ export const photosFromTheShow = [
 
     {
         id: 5,
-        image: 'https://media.gettyimages.com/photos/adriana-lima-elsa-hosk-alessandra-ambrosio-and-josephine-skriver-walk-picture-id626920972?s=2048x2048'
+        image: 'https://media.gettyimages.com/photos/gigi-hadid-and-bella-hadid-pose-backstage-prior-to-the-victorias-picture-id627173638?s=2048x2048'
     },
 
     {

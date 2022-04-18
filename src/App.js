@@ -27,7 +27,7 @@ function App() {
           <Link className='link font' to="/delivery">Доставка</Link>
           <Link className='link font' to="/about">О нас</Link>
           <Link className='link font' to="/contacts">Контакты</Link>
-          <Link className='link font' to="/vsshow">Шоу</Link>
+          <Link className='link font' to="/vsshow">VS Show</Link>
         </nav>
         <Routes>
           <Route path="/" element={<Home />} />
