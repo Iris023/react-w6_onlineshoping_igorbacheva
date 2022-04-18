@@ -45,7 +45,7 @@ function Show () {
                 </button>
             </div>
             <div className="centered marginTop">
-            <button className="font marginTop" onClick={moreAboutTheShow}>Узнать больше о шоу</button>
+                <button className="font marginTop" onClick={moreAboutTheShow}>Узнать больше о шоу</button>
             </div>
             <div className="hiddenCont">
                 <h1>Hello</h1>
