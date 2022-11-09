@@ -6,9 +6,7 @@ function Contacts() {
             <p>8 (499) 750-17-10 </p>
             <span>
                 <a href="mailto:service@victoriassecret.ru"> <button className="font text mailto_btn">service@victoriassecret.ru</button></a>
-
-                </span>    
-            
+            </span>                
             <p>125040 Россия, Москва, ул. Правды д. 26</p>
         </div>
     )

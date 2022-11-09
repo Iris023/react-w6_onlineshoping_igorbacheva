@@ -1,8 +1,9 @@
+
 export const data = [
 
     {
         id: 1,
-        image: 'https://www.victoriassecret.ru/media/catalog/product/cache/d6a9212df89a4f3064e82b5c3992cc04/1/1/1119166486q4_om_f.jpg',
+        image: '01.jpeg',
         description: 'Модаловый халат с кружевным декором красный',
         category: 'robe',
         price: '6499'
@@ -10,25 +11,23 @@ export const data = [
 
     {
         id: 2,
-        image: 'https://www.victoriassecret.ru/media/catalog/product/cache/8c355aba166b5a0c9127d742f97113f9/1/1/111924515j6s_om_f_llkcdgi3uayiyr8j_1.jpg',
-        description: 'Трусики хипхагеры из эластичного хлопка с логотипом зеленые',
+        image: '2.jpeg',
+        description: 'Трусики хипстеры невидымые серо-голубые',
         category: 'panties',
         price: '999'
     },
 
-
     {
         id: 3,
-        image: 'https://www.victoriassecret.ru/media/catalog/product/cache/8c355aba166b5a0c9127d742f97113f9/1/1/1117693554a2_38c_om_f.jpg',
-        description: 'Кружевной бюстгальтер Push-Up Shine Strap черный',
+        image: '3.jpeg',
+        description: 'Бюстгальтер Shine Strap Balconette с мягкой чашкой леопардовый',
         category: 'bra',
-        price: '6999'
+        price: '5999'
     },
-
 
     {
         id: 4,
-        image: 'https://www.victoriassecret.ru/media/catalog/product/cache/8c355aba166b5a0c9127d742f97113f9/1/1/111931555ds4_om_f_467.jpg',
+        image: '4.jpeg',
         description: 'Леггинсы Live On Point с перекрестной деталью на талии с цветочным принтом',
         category: 'sport',
         price: '4999'
@@ -36,17 +35,16 @@ export const data = [
     
     {
         id: 5,
-        image: 'https://www.victoriassecret.ru/media/catalog/product/cache/8c355aba166b5a0c9127d742f97113f9/1/1/1119266386q4_om_f.jpg',
+        image: '5.jpeg',
         description: 'Бюстгальтер с плотной чашкой без косточки красный',
         category: 'bra',
         price: '3999'
     },
 
-   
 
     {
         id: 6,
-        image: 'https://www.victoriassecret.ru/media/catalog/product/cache/8c355aba166b5a0c9127d742f97113f9/1/1/1117906234y5_om_f_1_.jpg',
+        image: '6.jpeg',
         description: 'Кружевные трусики тонги Bombshell Shine Strap белый',
         category: 'panties',
         price: '2499'
@@ -54,15 +52,16 @@ export const data = [
 
     {
         id: 7,
-        image: 'https://www.victoriassecret.ru/media/catalog/product/cache/8c355aba166b5a0c9127d742f97113f9/1/1/1118930355bo_om_f.jpg',
-        description: 'Халат для невесты молочного цвета',
+        image: '7.jpeg',
+        description: 'Халат с кружевным декором фиолетовый',
         category: 'robe',
-        price: '6999'
+        price: '8899'
     },
+
 
     {
         id: 8,
-        image: 'https://www.victoriassecret.ru/media/catalog/product/cache/8c355aba166b5a0c9127d742f97113f9/1/1/1118180286q4_om_f_22.jpg',
+        image: '8.jpeg',
         category: 'panties',
         description: 'Бесшовные трусики бикини с логотипом красные',
         price: '999'
@@ -70,7 +69,7 @@ export const data = [
 
     {
         id: 9,
-        image: 'https://www.victoriassecret.ru/media/catalog/product/cache/8c355aba166b5a0c9127d742f97113f9/1/1/111894405ask_om_f.jpg',
+        image: '9.jpeg',
         description: 'Бюстгальтер Demi с плотной чашкой и кружевом зеленый',
         category: 'bra',
         price: '5499'
@@ -78,15 +77,15 @@ export const data = [
 
     {
         id: 10,
-        image: 'https://www.victoriassecret.ru/media/catalog/product/cache/8c355aba166b5a0c9127d742f97113f9/1/1/112003975fxw_om_f.jpg',
-        description: 'Трусики чикини с вышивкой в форме сердца бежевые',
+        image: '10.jpeg',
+        description: 'Трусики чикини с цветочной вышивкой бежевые',
         category: 'panties',
         price: '3399'
     },
 
     {
         id: 11,
-        image: 'https://www.victoriassecret.ru/media/catalog/product/cache/8c355aba166b5a0c9127d742f97113f9/1/1/111962115d5u_om_f.jpg',
+        image: '11.jpeg',
         description: 'Бюстгальтер T-Shirt с плотной чашкой без косточки и логотипом на бретелях зеленый',
         category: 'bra',
         price: '3999'
@@ -94,59 +93,59 @@ export const data = [
 
     {
         id: 12,
-        image: 'https://www.victoriassecret.ru/media/catalog/product/cache/8c355aba166b5a0c9127d742f97113f9/1/1/1117910235p8_om_f_1_.jpg',
-        description: 'Халат с кружевным декором фиолетовый',
+        image: '12.jpeg',
+        description: 'Атласный халат с оборками черный',
         category: 'robe',
-        price: '8899'
+        price: '6999'
     },
+
 
     {
         id: 13,
-        image: 'https://www.victoriassecret.ru/media/catalog/product/cache/8c355aba166b5a0c9127d742f97113f9/1/1/1117906211t1_om_f_24.jpg',
+        image: '13.jpeg',
         category: 'panties',
-        description: 'Кружевные трусики тонги Bombshell Shine Strap розовые',
+        description: 'Трусики бикини бразилиана Shine Strap розовые',
         price: '2499'
     },
 
     {
         id: 14,
-        image: 'https://www.victoriassecret.ru/media/catalog/product/cache/8c355aba166b5a0c9127d742f97113f9/1/1/111994802hmn_om_f_4.jpg',
-        description: 'Атласный халат с кружевным декором розовый',
+        image: '14.jpeg',
+        description: 'Халат для невесты молочного цвета',
         category: 'robe',
-        price: '8999'
+        price: '6999'
     },
+  
 
 
     {
         id: 15,
-        image: 'https://www.victoriassecret.ru/media/catalog/product/cache/8c355aba166b5a0c9127d742f97113f9/1/1/111722405g50_om_f_2.jpg',
-        description: 'Модаловая пижама с брюками розовая с принтом сердца',
+        image: '15.jpeg',
+        description: 'Фланелевая пижама с брюками черная с принтом сердца',
         category: 'pajama',
         price: '6999'
     },
 
 
-   
-
     {
         id: 16,
-        image: 'https://www.victoriassecret.ru/media/catalog/product/cache/8c355aba166b5a0c9127d742f97113f9/1/1/111932145fa0_om_f_28.jpg',
-        description: 'Худи из флиса с капюшоном и воротником на молнии синяя',
+        image: '16.jpeg',
+        description: 'Худи из флиса с капюшоном и воротником на молнии лавандвый',
         category: 'sport',
         price: '8999'
     },
 
     {
         id: 17,
-        image: 'https://www.victoriassecret.ru/media/catalog/product/cache/8c355aba166b5a0c9127d742f97113f9/4/0/406058mnb_om_f_2.jpg',
-        description: 'Атласная пижама в леопардовый принт',
+        image: '17.jpeg',
+        description: 'Фланелевая пижама в леопардовый принт',
         category: 'pajama',
         price: '5999'
     },
 
     {
         id: 18,
-        image: 'https://www.victoriassecret.ru/media/catalog/product/cache/8c355aba166b5a0c9127d742f97113f9/1/1/1118943354a2_om_f.jpg',
+        image: '18.jpeg',
         description: 'Бюстгальтер Demi с мягкой чашкой и кружевом черный',
         category: 'bra',
         price: '4499'
@@ -156,8 +155,8 @@ export const data = [
 
     {
         id: 19,
-        image: 'https://www.victoriassecret.ru/media/catalog/product/cache/8c355aba166b5a0c9127d742f97113f9/1/1/111625495fkc_om_f_1_.jpg',
-        description: 'Короткий халат с логотипом черный с принтом сердца',
+        image: '19.jpeg',
+        description: 'Длинный плюшевый леопардовый халат',
         category: 'robe',
         price: '4999'
     },
@@ -165,8 +164,8 @@ export const data = [
 
     {
         id: 20,
-        image: 'https://www.victoriassecret.ru/media/catalog/product/cache/8c355aba166b5a0c9127d742f97113f9/1/1/111911885clo_om_f.jpg',
-        description: 'Атласная пижама розовая',
+        image: '20.jpeg',
+        description: 'Атласная пижама кораловая',
         category: 'pajama',
         price: '7999'
     },
@@ -175,7 +174,7 @@ export const data = [
 
     {
         id: 21,
-        image: 'https://www.victoriassecret.ru/media/catalog/product/cache/8c355aba166b5a0c9127d742f97113f9/1/1/111712635av0_om_f_82.jpg',
+        image: '21.jpeg',
         description: 'Леггинсы с высокой талией Flow On Point зеленые',
         category: 'sport',
         price: '3999'
@@ -183,8 +182,8 @@ export const data = [
 
     {
         id: 22,
-        image: 'https://www.victoriassecret.ru/media/catalog/product/cache/8c355aba166b5a0c9127d742f97113f9/1/1/111894444z6w_om_f.jpg',
-        description: 'Бюстгальтер Demi с плотной чашкой и кружевным декором красный',
+        image: '22.jpeg',
+        description: 'Бюстгальтер Demi с кружевным декором без косточек розовый',
         category: 'bra',
         price: '5499'
     },
@@ -193,23 +192,23 @@ export const data = [
 
     {
         id: 23,
-        image: 'https://www.victoriassecret.ru/media/catalog/product/cache/8c355aba166b5a0c9127d742f97113f9/1/1/111712844rhy_om_f_2_2.jpg',
-        description: 'Атласная пижама с брюками в культовую розовую полоску',
+        image: '23.jpeg',
+        description: 'Фланелевая пижама с брюками розовая в полоску',
         category: 'pajama',
         price: '7999'
     },
 
     {
         id: 24,
-        image: 'https://www.victoriassecret.ru/media/catalog/product/cache/8c355aba166b5a0c9127d742f97113f9/1/1/1120222194q1_om_f_4.jpg',
-        description: 'Атласные шортики с высокой талией красные',
+        image: '24.jpeg',
+        description: 'Мягкие флисовые шорты розовые',
         category: 'sport',
         price: '3499'
     },
 
     {
         id: 25,
-        image: 'https://www.victoriassecret.ru/media/catalog/product/cache/8c355aba166b5a0c9127d742f97113f9/1/1/1118286054a2_om_f_1.jpg',
+        image: '25.jpeg',
         description: 'Спортивный бюстгальтер с перекрестной спинкой черный',
         category: 'sport',
         price: '2499'
@@ -217,8 +216,8 @@ export const data = [
 
     {
         id: 26,
-        image: 'https://www.victoriassecret.ru/media/catalog/product/cache/8c355aba166b5a0c9127d742f97113f9/1/1/111575395dju_om_f.jpg',
-        description: 'Атласный халат с оборками красный',
+        image: '26.jpeg',
+        description: 'Кружевной халат с поясом красный',
         category: 'robe',
         price: '7499'
     },
@@ -226,8 +225,8 @@ export const data = [
 
     {
         id: 27,
-        image: 'https://www.victoriassecret.ru/media/catalog/product/cache/8c355aba166b5a0c9127d742f97113f9/1/1/1119044452ng_om_f.jpg',
-        description: 'Бюстгальтер с чашкой без косточки Maternity для кормления грудью леопардовый',
+        image: '27.jpeg',
+        description: 'Бюстгальтер с чашкой без косточки Maternity для кормления леопардовый',
         category: 'bra',
         price: '4499'
     },
@@ -235,7 +234,7 @@ export const data = [
 
     {
         id: 28,
-        image: 'https://www.victoriassecret.ru/media/catalog/product/cache/8c355aba166b5a0c9127d742f97113f9/1/1/111722405dwa_om_f_2.jpg',
+        image: '28.jpeg',
         description: 'Модаловая пижама с брюками красная в горошек',
         category: 'pajama',
         price: '6999'
@@ -243,15 +242,15 @@ export const data = [
 
     {
         id: 29,
-        image: 'https://www.victoriassecret.ru/media/catalog/product/cache/8c355aba166b5a0c9127d742f97113f9/1/1/111876914yny_om_f.jpg',
-        description: 'Бюстгальтер Shine Strap Balconette с мягкой чашкой леопардовый',
+        image: '29.jpeg',
+        description: 'Кружевной бюстгальтер Push-Up Shine Strap черный',
         category: 'bra',
-        price: '5999'
+        price: '6999'
     },
 
     {
         id: 30,
-        image: 'https://www.victoriassecret.ru/media/catalog/product/cache/8c355aba166b5a0c9127d742f97113f9/1/1/111734585cyu_om_f_19.jpg',
+        image: '30.jpeg',
         description: 'Трусики V-стринги из эластичного хлопка леопардовые',
         category: 'panties',
         price: '999'
@@ -261,15 +260,15 @@ export const data = [
 
     {
         id: 31,
-        image: 'https://www.victoriassecret.ru/media/catalog/product/cache/8c355aba166b5a0c9127d742f97113f9/1/1/111722401fnr_om_f_2.jpg',
-        description: 'Модаловая пижама с брюками розовая',
+        image: '31.jpeg',
+        description: 'Атласная пижама с брюками белая с принтом',
         category: 'pajama',
         price: '6999'
     },
 
     {
         id: 32,
-        image: 'https://www.victoriassecret.ru/media/catalog/product/cache/d6a9212df89a4f3064e82b5c3992cc04/1/1/111823114oha_om_f_1.jpg',
+        image: '32.jpeg',
         description: 'Спортивный бюстгальтер Allegro средний уровень поддержки леопардовый',
         category: 'sport',
         price: '3999'
@@ -279,15 +278,15 @@ export const data = [
 
     {
         id: 33,
-        image: 'https://www.victoriassecret.ru/media/catalog/product/cache/8c355aba166b5a0c9127d742f97113f9/1/1/111607393jsd_om_f_ufkftktbcwcqbe7s.jpg',
-        description: 'Трусики хипхагеры из эластичного хлопка синие',
+        image: '33.jpeg',
+        description: 'Трусики хипхагеры из эластичного хлопка голубые',
         category: 'panties',
         price: '999'
     },
 
     {
         id: 34,
-        image: 'https://www.victoriassecret.ru/media/catalog/product/cache/8c355aba166b5a0c9127d742f97113f9/1/1/1117126454a2_om_f_82.jpg',
+        image: '34.jpeg',
         description: 'Леггинсы с высокой талией Flow On Point черные',
         category: 'sport',
         price: '3999'
@@ -296,16 +295,16 @@ export const data = [
 
     {
         id: 35,
-        image: 'https://www.victoriassecret.ru/media/catalog/product/cache/8c355aba166b5a0c9127d742f97113f9/4/0/402630kjd_om_f_49.jpg',
+        image: '35.jpeg',
         category: 'panties',
-        description: 'Кружевные трусики тонги белый',
+        description: 'Кружевные трусики тонги лавандоывй',
         price: '1299'
     },
     
 
     {
         id: 36,
-        image: 'https://www.victoriassecret.ru/media/catalog/product/cache/8c355aba166b5a0c9127d742f97113f9/1/1/111935355glc_om_f.jpg',
+        image: '36.jpeg',
         description: 'Спортивный бюстгальтер High Neck в цветочный принт',
         category: 'sport',
         price: '3699'
@@ -313,24 +312,24 @@ export const data = [
 
     {
         id: 37,
-        image: 'https://www.victoriassecret.ru/media/catalog/product/cache/8c355aba166b5a0c9127d742f97113f9/1/1/111836605gai_om_f_7mxuqq5yss2dxhpo.jpg',
-        description: 'Спортивный бюстгальтер Allegro розовый тай-дай',
+        image: '37.jpeg',
+        description: 'Спортивный бюстгальтер Essential полосатый',
         category: 'sport',
         price: '3999'
     },
 
     {
         id: 38,
-        image: 'https://www.victoriassecret.ru/media/catalog/product/cache/8c355aba166b5a0c9127d742f97113f9/1/1/111920735csy_om_f_2.jpg',
-        description: 'Пижамный костюм футболка и джоггеры зеленый в полоску',
+        image: '38.jpeg',
+        description: 'Вельветовая ночная сорочка фуксия',
         category: 'pajama',
         price: '4999'
     },
 
     {
         id: 39,
-        image: 'https://www.victoriassecret.ru/media/catalog/product/cache/8c355aba166b5a0c9127d742f97113f9/1/1/1117224053a5_om_f_1.jpg',
-        description: 'Модаловая пижама с брюкам черная',
+        image: '39.jpeg',
+        description: 'Вельветовая пижама с шортами изумрудная',
         category: 'pajama',
         price: '6999'
     },
@@ -338,31 +337,33 @@ export const data = [
     
     {
         id: 40,
-        image: 'https://www.victoriassecret.ru/media/catalog/product/cache/8c355aba166b5a0c9127d742f97113f9/1/1/111886335coc_om_f.jpg',
-        description: 'Бюстгальтер Push-Up Perfect Shape синий в горошек',
+        image: '40.jpeg',
+        description: 'Бюстгальтер кружевной Push-Up Perfect Shape голубой',
         category: 'bra',
         price: '4999'
     },
 
     {
         id: 41,
-        image: 'https://www.victoriassecret.ru/media/catalog/product/cache/8c355aba166b5a0c9127d742f97113f9/1/1/1117253453a5_om_f.jpg',
+        image: '41.jpeg',
         description: 'Модаловая пижама с шортами черная',
         category: 'pajama',
         price: '6499'
     },
 
+  
+
     {
         id: 42,
-        image: 'https://www.victoriassecret.ru/media/catalog/product/cache/8c355aba166b5a0c9127d742f97113f9/3/9/399643093_om_f_2.jpg',
-        description: 'Атласный халат с оборками черный',
+        image: '42.jpeg',
+        description: 'Атласный халат с кружевным декором розовый',
         category: 'robe',
-        price: '6999'
+        price: '8999'
     },
 
     {
         id: 43,
-        image: 'https://www.victoriassecret.ru/media/catalog/product/cache/8c355aba166b5a0c9127d742f97113f9/1/1/1113972965h8_38c_om_f_5.jpg',
+        image: '43.jpeg',
         description: 'Бюстгальтер Push-Up бежевый',
         category: 'bra',
         price: '4999'

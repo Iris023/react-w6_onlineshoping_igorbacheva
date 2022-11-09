@@ -27,7 +27,7 @@ const chooseCategory = (category) => {
                     const {id, image, description, category, price} = element;
                     return(  
                             <div className='item-card font' key={id}>
-                                <img className='item-img' src={image} alt="item"/>
+                                <img className='item-img' src={`../vs/${image}`} alt="item"/>
                                 <p className='item-descr'>{description}</p>
                                 <p className='item-price'>{price} p.</p>
                             </div>
