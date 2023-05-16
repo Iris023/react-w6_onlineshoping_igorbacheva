@@ -38,7 +38,7 @@ function App() {
         </Routes>
       </Router>
 
-      <p className="info font footer">© 2022 Victoria's Secret. All rights reserved.</p>
+      <p className="info font footer">© {new Date().getFullYear()} Victoria's Secret. All rights reserved.</p>
     </div>
   );
 }
